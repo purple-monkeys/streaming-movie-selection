@@ -10,6 +10,8 @@ I am determining the PIR, profit investment return, of all movies we have data o
 #### Top Budgets
 <img width="508" alt="Screen Shot 2022-01-04 at 10 21 49 PM" src="https://user-images.githubusercontent.com/89313495/148160290-5104c812-a323-4451-a6bf-67ca0f62d9ac.png">
 #### Top Release Months
+<img width="508" alt="Screen Shot 2022-01-04 at 10 22 38 PM" src="https://user-images.githubusercontent.com/89313495/148160503-5a31d42a-a381-4e6e-9546-53901ce54022.png">
+#### Highest Yielding Genres
 
 
 ### Final Conclusions
