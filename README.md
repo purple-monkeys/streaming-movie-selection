@@ -7,6 +7,10 @@ I am determining the PIR, profit investment return, of all movies we have data o
 - When should the release date be?
 - What genre should the movie be?
 ### Results
+#### Top Budgets
+<img width="508" alt="Screen Shot 2022-01-04 at 10 21 49 PM" src="https://user-images.githubusercontent.com/89313495/148160290-5104c812-a323-4451-a6bf-67ca0f62d9ac.png">
+#### Top Release Months
+
 
 ### Final Conclusions
 I would recommend:
